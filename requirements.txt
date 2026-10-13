@@ -1,0 +1,9 @@
+PyGithub
+langchain
+langchain-google-genai
+simple_chalk
+pydantic
+python-dotenv
+typer
+questionary
+art
